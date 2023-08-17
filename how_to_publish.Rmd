@@ -68,6 +68,10 @@ Also make sure the `.publish` github action file is added.
 
 One key part of the instructions above will be running this command.
 
+You can also run this command in the terminal which might be better as it gives more interactive output.
+
+`quarto publish gh-pages`
+
 ```{r}
 system2('quarto', "publish gh-pages")
 ```
