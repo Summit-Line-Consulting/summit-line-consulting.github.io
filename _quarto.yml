@@ -1,11 +1,7 @@
 project:
   type: website
-  output-dir: docs
   render:
-    # - index.qmd
     - index.qmd
-    - about.qmd
-    - links.qmd
 
 website:
   title: "SLC"
@@ -13,11 +9,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - links.qmd
 
 format:
   html:
     theme: minty
     # css: styles.css
     toc: true
+    
+execute: 
+  freeze: auto
