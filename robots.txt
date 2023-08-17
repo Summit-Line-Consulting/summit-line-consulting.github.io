@@ -1,1 +1,1 @@
-Sitemap: https://Summit-Line-Consulting.github.io/summit-line-consulting.github.io/sitemap.xml
+Sitemap: https://github.com/Summit-Line-Consulting/summit-line-consulting.github.io/sitemap.xml
