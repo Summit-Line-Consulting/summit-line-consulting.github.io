@@ -1,6 +1,11 @@
 ---
 title: "Summit Line Consulting"
-format: html
+image: images/Cropped_Logo.svg
+about: 
+  template: jolla
+  image-shape: rectangle
+  # image-width: 80em
+toc: false
 ---
 
 ## Elevate Your Financial Insights
@@ -8,43 +13,4 @@ format: html
 Financial planning and analysis (FP&A) services are essential for businesses of all sizes, providing a structured approach to managing your finances, optimizing your resources, and adapting quickly to changing conditions. 
 
 Summit Line can help your organization gain a deeper understanding of your operations, enhance your financial agility, and develop actionable plans to achieve your business goals. 
-
-## Services
-
-1.	**Financial Modeling:** Developing sophisticated financial models enables organizations to assess the potential impact of different strategies, investments, or economic changes, facilitating proactive decision-making.
-
-1.	**Budgeting and Forecasting:** Crafting detailed budgets and forecasts based on an informed analysis of historical financial data as well as a keen assessment of what is likely to change. 
-
-1.	**Variance Analysis:** Comparing actual financial performance against planned or projected figures to identify discrepancies and understand their drivers. Variance analysis is crucial in understanding the broader story and making timely operational adjustments.
-
-1.	**Management Reporting:** Compiling and presenting comprehensive reports that summarize financial performance, highlight key performance indicators (KPIs), and provide insights into an organization's overall financial health.
-
-1.	**Strategic Planning:** Collaborating with leadership to align financial goals with broader business objectives, ensuring that financial decisions support the organization’s growth and long-term vision.
-
-1.	**Resource Allocation:** Determining the most optimal allocation of financial resources. This is a pivotal set of decisions that empowers organizations to chart their financial course and ensure alignment with strategic objectives. 
-
-1.	**Cost Analysis**: Evaluating costs to identify areas for potential savings, resource optimization, and efficiency improvements.
-
-1.	**Viability Analysis:** Evaluating the profitability and/or viability of products, programs, services, customer segments, or geographic markets to guide pricing strategies and resource allocation.
-
-1.	**Data Analytics and Visualization:** Leveraging data analytics tools and visualization techniques to transform complex financial data into actionable insights that facilitate timely, confident decision-making. 
-
-## Who is Summit Line?
-
-Summit Line was created by Angie Naillon, an FP&A leader and strategist with nearly two decades of experience. She recognized a need in many organizations for seasoned finance professionals to perform high-quality, intermittent engagements.  
-
-Whether you need someone for a short-term project or to spearhead a transformative finance initiative, please reach out. Summit Line is excited to support your financial success!
-
-## About Angie
-
-I am passionate about helping organizations unravel and shape their unique financial narratives. By demystifying financial drivers, distilling risks and opportunities, and enhancing financial agility through thoughtful planning and reporting, I have successfully driven revenue enhancements, cost-saving initiatives, and process optimizations that directly impacted organizations’ ability to achieve their core mission.
-
-However, success in this space isn’t merely about numbers -- it's about fostering a culture of financial fluency and empowerment at all levels of an organization. I am committed to instilling this ethos, equipping teams with the knowledge and tools to make informed financial choices that facilitate quicker execution of strategic priorities and support long-term success.
-
-I am excited to partner with you to co-create possibilities. Let's connect and explore how I can help your organization meet its unique financial challenges and goals. Together, we can forge a path toward financial empowerment and position your organization for a thriving future.
-
-## Get in Touch
-
-- [Email](mailto:angie@summitlineconsulting.com)
-- [LinkedIn](https://linkedin.com/in/angie-naillon)
 

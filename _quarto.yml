@@ -2,19 +2,27 @@ project:
   type: website
   render:
     - index.qmd
+    - services.qmd
+    - who_is_slc.qmd
+    - contact.qmd
 
 website:
-  title: "SLC"
+  favicon: images/favicon_small.png
   navbar:
     left:
       - href: index.qmd
         text: Home
-
+      - services.qmd
+      - href: who_is_slc.qmd
+        text: About
+      - contact.qmd
+    
 format:
   html:
-    theme: minty
+    theme: styles.scss
     # css: styles.css
     toc: true
+    page-layout: full
     
 execute: 
   freeze: auto
