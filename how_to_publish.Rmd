@@ -21,6 +21,7 @@ Load useful libraries
 library('quarto')
 library('rmarkdown')
 library('knitr')
+library('httpuv')
 ```
 
 
