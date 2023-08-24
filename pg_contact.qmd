@@ -1,0 +1,16 @@
+---
+title: "Get in Touch"
+image: images/Headshot.jpg
+about: 
+  template: jolla
+  image-shape: round
+  links:
+    - icon: envelope-at
+      text: Email
+      href: mailto:angie@summitlineconsulting.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/angie-naillon
+---
+
+#### I would love to help your organization reach its full potential, through finance projects large or small. Please reach out!

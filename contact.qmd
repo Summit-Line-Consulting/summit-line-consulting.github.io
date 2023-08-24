@@ -1,9 +1,0 @@
----
-title: "Get in Touch"
----
-
-I would love to help your organization reach its full potential, through finance projects large or small. Please reach out!
-
-- {{< fa envelope >}} [Email](mailto:angie@summitlineconsulting.com)
-- {{< fa brands linkedin >}} [LinkedIn](https://linkedin.com/in/angie-naillon)
-

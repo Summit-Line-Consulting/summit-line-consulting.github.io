@@ -39,7 +39,7 @@ quarto::quarto_preview()
 
 # Render 
 
-After you're satisfied with your changes, but before commiting changes and publishing, use the `quarto_render()` command below or the `Render` button in the toolbar to check that everything works (one more time).
+After you're satisfied with your changes, but before committing changes and publishing, use the `quarto_render()` command below or the `Render` button in the toolbar to check that everything works (one more time).
 
 The render command below will just render the site. 
 

@@ -1,28 +1,37 @@
 project:
   type: website
   render:
-    - index.qmd
-    - services.qmd
-    - who_is_slc.qmd
-    - contact.qmd
+    - pg_index.qmd
+    - pg_services.qmd
+    - pg_who_is_slc.qmd
+    - pg_contact.qmd
 
 website:
-  favicon: images/favicon_small.png
+  favicon: images/favicon_logo.png
   navbar:
     left:
-      - href: index.qmd
+      - href: pg_index.qmd
         text: Home
-      - services.qmd
-      - href: who_is_slc.qmd
+      - pg_services.qmd
+      - href: pg_who_is_slc.qmd
         text: About
-      - contact.qmd
+      - pg_contact.qmd
+    tools: 
+      - icon: envelope-at
+        href: angie@summitlineconsulting.com
+      - icon: linkedin
+        href: www.linkedin.com/in/angie-naillon
     
 format:
   html:
     theme: styles.scss
     # css: styles.css
+    mainfont: Nunito
     toc: true
     page-layout: full
     
 execute: 
   freeze: auto
+  
+  
+  

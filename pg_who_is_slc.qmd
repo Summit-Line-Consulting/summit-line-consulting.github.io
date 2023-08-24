@@ -1,5 +1,6 @@
 ---
 title: "Who is Summit Line?"
+toc: false
 ---
 
 Summit Line was created by Angie Naillon, an FP&A leader and strategist with nearly two decades of experience. She recognized a need in many organizations for seasoned finance professionals to perform high-quality, intermittent engagements.  
@@ -8,10 +9,13 @@ Whether you need someone for a short-term project or to spearhead a transformati
 
 <br>
 
-## About Angie
+## *About Angie*
 
 I am passionate about helping organizations unravel and shape their unique financial narratives. By demystifying financial drivers, distilling risks and opportunities, and enhancing financial agility through thoughtful planning and reporting, I have successfully driven revenue enhancements, cost-saving initiatives, and process optimizations that directly impacted organizations’ ability to achieve their core mission.
 
 However, success in this space isn’t merely about numbers -- it's about fostering a culture of financial fluency and empowerment at all levels of an organization. I am committed to instilling this ethos, equipping teams with the knowledge and tools to make informed financial choices that facilitate quicker execution of strategic priorities and support long-term success.
 
-I am excited to partner with you to co-create possibilities. Let's connect and explore how I can help your organization meet its unique financial challenges and goals. Together, we can forge a path toward financial empowerment and position your organization for a thriving future.
+I am excited to partner with you to co-create possibilities. Let's connect and explore how I can help your organization meet its unique financial challenges and goals. Together, we can forge a path toward financial empowerment and position your organization for a thriving future. 
+<br><br>
+
+![](images/resume_summary.png){width=800 fig-align="center"}

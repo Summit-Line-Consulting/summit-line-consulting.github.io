@@ -1,14 +1,16 @@
 /*-- scss:defaults --*/
 
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,300;0,400;0,800;1,300;1,400;1,800&display=swap');
+
 // Colors
 $barely-green: #ECF0EB;
 $light-sage-green: #D1D9CE;
-$dark-sage-green: #98A08D;
+$dark-sage-green: #718572;
 $cream: #FDFBF7;
 $gray: #64605f;
 $light-gray: #949799;
 $purple: #8d7aa1;
-$logo-spanish-green: #809782;
 
 // Base document colors
 $navbar-bg: $cream; // navbar
@@ -25,3 +27,14 @@ $code-color: $purple; // inline code text color
 
 // Code blocks
 $code-block-bg: $cream; // code block background color
+
+/*-- scss:rules --*/
+
+.title {
+  color: $dark-sage-green;
+}
+
+.custom-subtitle {
+  font-style: italic;
+  color: $dark-sage-green;
+}
