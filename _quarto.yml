@@ -1,21 +1,21 @@
 project:
   type: website
   render:
-    - pg_index.qmd
-    - pg_services.qmd
-    - pg_who_is_slc.qmd
-    - pg_contact.qmd
+    - index.qmd
+    - services.qmd
+    - who_is_slc.qmd
+    - contact.qmd
 
 website:
   favicon: images/favicon_logo.png
   navbar:
     left:
-      - href: pg_index.qmd
+      - href: index.qmd
         text: Home
-      - pg_services.qmd
-      - href: pg_who_is_slc.qmd
+      - services.qmd
+      - href: who_is_slc.qmd
         text: About
-      - pg_contact.qmd
+      - contact.qmd
     tools: 
       - icon: envelope-at
         href: mailto:angie@summitlineconsulting.com
