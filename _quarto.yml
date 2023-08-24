@@ -18,9 +18,9 @@ website:
       - pg_contact.qmd
     tools: 
       - icon: envelope-at
-        href: angie@summitlineconsulting.com
+        href: mailto:angie@summitlineconsulting.com
       - icon: linkedin
-        href: www.linkedin.com/in/angie-naillon
+        href: https://www.linkedin.com/in/angie-naillon
     
 format:
   html:
