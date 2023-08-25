@@ -3,62 +3,58 @@ title: "Services"
 format: html
 ---
 
-:::{layout-ncol="2" padding="2" layout-valign="top"}
+:::{layout-ncol="2" layout-valign="top"}
 
-##### {{< fa chart-line >}} &nbsp; ***Financial Modeling***
+#### {{< fa chart-line >}} &nbsp; ***Financial Modeling***
 
 Developing sophisticated financial models, enabling organizations to assess the potential impact of different strategies, investments, or economic changes, facilitating proactive decision-making.
 <br>
 <br>
 
-##### {{< fa bullseye >}} &nbsp; ***Budgeting and Forecasting***
+#### {{< fa bullseye >}} &nbsp; ***Budgeting and Forecasting***
 
 Crafting detailed budgets and forecasts based on an informed analysis of historical financial data as well as a keen assessment of what is likely to change. 
 <br>
 <br>
 
-##### {{< fa code-compare >}} &nbsp; ***Variance Analysis***
+#### {{< fa code-compare >}} &nbsp; ***Variance Analysis***
 
 Comparing actual financial performance against planned or projected figures to identify discrepancies and understand their drivers. Variance analysis is crucial in understanding the broader story and making timely operational adjustments.
 <br>
 <br>
 
-##### {{< fa magnifying-glass-dollar >}} &nbsp; ***Management Reporting***
+#### {{< fa magnifying-glass-dollar >}} &nbsp; ***Management Reporting***
 
 Compiling and presenting comprehensive reports that summarize financial performance, highlight key performance indicators (KPIs), and provide insights into an organization's overall financial health.
 <br>
 <br>
 
-##### {{< fa compass >}} &nbsp; ***Strategic Planning***
+#### {{< fa compass >}} &nbsp; ***Strategic Planning***
 
 Collaborating with leadership to align financial goals with broader business objectives, ensuring that financial decisions support the organization's growth and long-term vision.
 <br>
 <br>
 
-##### {{< fa chart-pie >}} &nbsp; ***Resource Allocation***
+#### {{< fa chart-pie >}} &nbsp; ***Resource Allocation***
 
 Determining the most optimal allocation of financial resources. This is a pivotal set of decisions that empowers organizations to chart their financial course and ensure alignment with strategic objectives.
 <br>
 <br>
 
-##### {{< fa chart-simple >}} &nbsp; ***Cost Analysis***
+#### {{< fa chart-simple >}} &nbsp; ***Cost Analysis***
 
 Evaluating costs to identify areas for potential savings, resource optimization, and efficiency improvements.
 <br>
 <br>
 
-##### {{< fa clipboard-question >}} &nbsp; ***Viability Analysis***
+#### {{< fa clipboard-question >}} &nbsp; ***Viability Analysis***
 
 Evaluating the profitability and/or viability of products, programs, services, customer segments, or geographic markets to guide pricing strategies and resource allocation.
 <br>
 <br>
 
-##### {{< fa gauge-high >}} &nbsp; ***Data Analytics and Visualization***
+#### {{< fa gauge-high >}} &nbsp; ***Data Analytics and Visualization***
 
 Leveraging data analytics tools and visualization techniques to transform complex financial data into actionable insights that facilitate timely, confident decision-making. 
-<br>
-<br>
-
-![](images/blue_chart.jpg){width=320 fig-align="center"}
 
 :::
