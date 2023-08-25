@@ -7,7 +7,7 @@ project:
     - contact.qmd
 
 website:
-  favicon: images/favicon_logo.svg
+  favicon: images/Favicon_logo.svg
   navbar:
     left:
       - href: index.qmd
