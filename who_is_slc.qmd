@@ -4,20 +4,22 @@ format: html
 toc: false
 ---
 
-Summit Line was created by Angie Naillon, an FP&A leader and strategist with nearly two decades of experience. She recognized a need in many organizations for seasoned finance professionals to perform intermittent, high-quality engagements.  
+Summit Line was created by Angie Naillon, an FP&A leader and strategist with nearly two decades of experience. She recognized a need in many organizations for seasoned finance professionals to perform intermittent, high-quality engagements.
 
-Whether you need someone for a short-term project or to spearhead a transformative finance initiative, please reach out. Summit Line is excited to support your financial success!
-<br>
-<br>
+Whether you need someone for a short-term project or to spearhead a transformative finance initiative, please reach out. Summit Line is excited to support your financial success! <br> <br>
 
 ## *About Angie*
 
-I am passionate about helping organizations unravel and shape their unique financial narratives. I bring a proven history of financial partnership focused on driving revenue enhancements, cost-savings initiatives, and process optimizations that directly impact an organization's ability to achieve its core mission. Together, we can demystify your financial drivers, distill your risks and opportunities into actionable decisions, and enhance your financial agility through thoughtful planning and reporting. 
+I am passionate about helping organizations unravel and shape their unique financial narratives. I bring a proven history of financial partnership focused on driving revenue enhancements, cost-savings initiatives, and process optimizations that directly impact an organization's ability to achieve its core mission. Together, we can demystify your financial drivers, distill your risks and opportunities into actionable decisions, and enhance your financial agility through thoughtful planning and reporting.
 
-Success in this space isn’t merely about numbers, however. It's about fostering a culture of financial fluency and empowerment at all levels of an organization. I am committed to instilling this ethos, equipping teams with the knowledge and tools to make confident, informed financial choices that support strategic priorities and long-term success.
+Success in this space isn't merely about numbers, however. It's about fostering a culture of financial fluency and empowerment at all levels of an organization. I am committed to instilling this ethos, equipping teams with the knowledge and tools to make confident, informed financial choices that support strategic priorities and long-term success.
 
 I am excited to partner with you to co-create possibilities. Let's connect and explore how I can help your organization meet its unique financial challenges and goals. Together, we can forge a path toward financial empowerment and position your organization for a thriving future!
 
 <br>
 
-![](images/resume_summary.png){width=800 fig-align="center"}
+![](images/resume_summary.png){width="800" fig-align="center"}
+
+::: {style="text-align: center;"}
+[PDF](images/pdf_resume_summary.pdf)
+:::

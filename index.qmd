@@ -3,13 +3,15 @@ title: ""
 toc: false
 ---
 
-![](images/Logo_large.svg){height=350 fig-align="center"}
+![](images/Logo_large.svg){height="350" fig-align="center"}
 
-# *Elevate Your Financial Insights* {style="text-align: center;"}
+::: {style="text-align: center"}
+# *Elevate Your Financial Insights*
 <br>
 
-### Need Help Turning Your Business Strategy into Results? &nbsp;A Skilled Finance Partner Can Help!
+### Need Support Turning Your Business Strategy into Results?  A Skilled Finance Partner Can Help!
+:::
 
-#### Financial planning and analysis (FP&A) services are essential for businesses of all sizes. They provide a structured, yet also agile, approach to forecasting and budgeting, evaluating opportunities, optimizing resources, adapting quickly to changing conditions, and -- ultimately -- achieving your business goals. {style="text-align: left;"}
+#### Financial planning and analysis (FP&A) services are essential for businesses of all sizes. They provide a structured, yet also agile, approach to forecasting and budgeting, evaluating opportunities, optimizing resources, adapting quickly to changing conditions, and -- ultimately -- achieving your business goals.
 
-#### Whether you simply need short-term support or want to completely transform your approach to FP&A, reach out! Summit Line can help you enhance your financial agility, gain a deeper understanding of your operations, and develop actionable plans to support your strategic priorities. {style="text-align: left;"}
+#### Whether you simply need short-term support or want to completely transform your approach to FP&A, reach out! Summit Line can help you enhance your financial agility, gain a deeper understanding of your operations, and develop actionable plans to support your strategic priorities.
