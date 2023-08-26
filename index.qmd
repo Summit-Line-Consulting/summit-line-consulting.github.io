@@ -7,7 +7,7 @@ toc: false
 
 ::: {style="text-align: center"}
 # *Elevate Your Financial Insights*
-<br>
+## &nbsp;
 
 ### Need Support Turning Your Business Strategy Into Results?
 ### A Skilled Finance Partner Can Help!
