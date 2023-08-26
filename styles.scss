@@ -38,3 +38,11 @@ $code-block-bg: $cream; // code block background color
   font-style: italic;
   color: $dark-sage-green;
 }
+
+.round-corners {
+  border-radius: 25px;
+  background: #FFFFFF;
+  padding: 0px;
+  width: 800px;
+  height: 1035px;
+}

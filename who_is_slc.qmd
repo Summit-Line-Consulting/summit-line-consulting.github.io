@@ -18,7 +18,11 @@ I am excited to partner with you to co-create possibilities. Let's connect and e
 
 <br>
 
-![](images/resume_summary.png){width="800" fig-align="center"}
+<div>
+
+![](images/resume_summary.png){fig-align="center" width="800"}
+
+</div>
 
 ::: {style="text-align: center;"}
 [PDF](images/pdf_resume_summary.pdf)
