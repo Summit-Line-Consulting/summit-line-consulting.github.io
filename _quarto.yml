@@ -12,7 +12,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - services.qmd
+      - href: services.qmd
+        text: Services
       - href: who_is_slc.qmd
         text: About
       - contact.qmd
