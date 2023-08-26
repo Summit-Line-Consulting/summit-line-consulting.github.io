@@ -53,7 +53,7 @@ Evaluating the profitability and/or viability of products, programs, services, c
 <br>
 <br>
 
-#### {{< fa gauge-high >}} &nbsp; ***Data Analytics and Visualization***
+#### {{< fa gauge-high >}} &nbsp;***Data Analytics & Visualization***
 
 Leveraging data analytics tools and visualization techniques to transform complex financial data into actionable insights that facilitate timely, confident decision-making. 
 
