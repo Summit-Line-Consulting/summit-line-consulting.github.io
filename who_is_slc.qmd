@@ -10,7 +10,7 @@ Whether you need someone for a short-term project or to spearhead a transformati
 
 ## *About Angie*
 
-I am passionate about helping organizations unravel and shape their unique financial narratives. I bring a proven history of financial partnership focused on driving revenue enhancements, cost-savings initiatives, and process optimizations that directly impact an organization's ability to achieve its core mission. Together, we can demystify your financial drivers, distill your risks and opportunities into actionable decisions, and enhance your financial agility through thoughtful planning and reporting.
+I am passionate about helping organizations unravel and shape their unique financial narratives. I bring a proven history of financial partnership focused on driving revenue enhancements, cost-savings initiatives, and process optimizations that directly impact a team's ability to achieve its core mission. Together, we can demystify your financial drivers, distill your risks and opportunities into actionable decisions, and enhance your financial agility through thoughtful planning and reporting.
 
 Success in this space isn't merely about numbers, however. It's about fostering a culture of financial fluency and empowerment at all levels of an organization. I am committed to instilling this ethos, equipping teams with the knowledge and tools to make confident, informed financial choices that support strategic priorities and long-term success.
 
@@ -20,7 +20,7 @@ I am excited to partner with you to co-create possibilities. Let's connect and e
 
 <div>
 
-![](images/resume_summary.png){fig-align="center" width="800"}
+![](images/resume_summary.png){.round-corners fig-align="center" width="750"}
 
 </div>
 

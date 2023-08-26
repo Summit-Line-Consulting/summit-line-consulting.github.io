@@ -3,7 +3,7 @@ title: "Services"
 format: html
 ---
 
-:::{layout-ncol="2" layout-valign="top"}
+:::{layout-ncol="3" layout-valign="top"}
 
 #### {{< fa chart-line >}} &nbsp; ***Financial Modeling***
 

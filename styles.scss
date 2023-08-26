@@ -41,8 +41,11 @@ $code-block-bg: $cream; // code block background color
 
 .round-corners {
   border-radius: 25px;
-  background: #FFFFFF;
-  padding: 0px;
-  width: 800px;
-  height: 1035px;
+}
+
+.content-box {
+  padding: 1em;
+  background: #FDFBF7;
+  column-count: 3;
+  column-rule: inset 2px #ECF0EB;
 }
