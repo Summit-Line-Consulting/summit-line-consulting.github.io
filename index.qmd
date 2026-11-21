@@ -1,20 +1,131 @@
 ---
-title: ""
-toc: false
+title: "Summit Line Consulting"
+pagetitle: "Summit Line Consulting | FP&A Consulting"
+description: "Seasoned financial planning and analysis for growing organizations, from short-term support to a full FP&A transformation. Based in Fruita, Colorado."
 ---
 
-![](images/Logo_large.svg){height="310" fig-align="center"}
+```{=html}
+<section class="sl-section">
+  <div class="sl-container sl-row" style="padding-top: 88px; padding-bottom: 88px;">
+    <div class="sl-grow">
+      <p class="sl-eyebrow">FP&amp;A consulting · Fruita, Colorado</p>
+      <h1 class="sl-h1">Turn your strategy into a financial plan you can act on.</h1>
+      <p class="sl-lead">Summit Line gives growing organizations seasoned financial planning and analysis. That can mean short-term support or a full rebuild of how you plan.</p>
+      <div class="sl-actions">
+        <a class="sl-btn sl-btn--primary" href="contact.html">Get in touch
+          <svg class="sl-icon" aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m13 6 6 6-6 6"/></svg></a>
+        <a class="sl-btn sl-btn--outline" href="services.html">Explore services</a>
+      </div>
+    </div>
+    <div class="sl-photo">
+      <img src="images/Headshot.jpg" alt="Angie Naillon, founder of Summit Line Consulting">
+      <div class="sl-namecard">
+        <p class="sl-namecard-name">Angie Naillon</p>
+        <p class="sl-namecard-role">Founder · 20 years in FP&amp;A</p>
+      </div>
+    </div>
+  </div>
+</section>
 
-::: {style="text-align: center"}
-# *Elevate Your Financial Insights*
-## &nbsp;
+<section class="sl-section sl-section--divider">
+  <div class="sl-container">
+    <h2 class="sl-h2">Does this sound familiar?</h2>
+    <p class="sl-lead" style="margin-bottom: 48px;">Most organizations don’t need more spreadsheets. They need a clear view of what’s driving results and what to do next.</p>
+    <div class="sl-grid">
+      <div class="sl-card">
+        <h3>“Our budget is out of date by March.”</h3>
+        <p>Plans built once a year can’t keep up. A rolling forecast lets you adjust before small gaps become big ones.</p>
+      </div>
+      <div class="sl-card">
+        <h3>“Leadership asks why, and the numbers can’t say.”</h3>
+        <p>Variance analysis and management reporting turn raw figures into a story people can make decisions from.</p>
+      </div>
+      <div class="sl-card">
+        <h3>“We need FP&amp;A expertise, but not a full-time hire.”</h3>
+        <p>Bring in a senior finance partner for the project or season you need, then keep the tools and know-how afterward.</p>
+      </div>
+    </div>
+  </div>
+</section>
 
-### Need Support Turning Your Business Strategy Into Results?
-### A Skilled Finance Partner Can Help!
-:::
+<section class="sl-section sl-section--mist">
+  <div class="sl-container">
+    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-end; gap: 16px; margin-bottom: 48px;">
+      <div>
+        <p class="sl-eyebrow">Services</p>
+        <h2 class="sl-h2" style="margin: 0;">How Summit Line helps</h2>
+      </div>
+      <a class="sl-link-arrow" href="services.html">See all services
+        <svg class="sl-icon" aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m13 6 6 6-6 6"/></svg></a>
+    </div>
+    <div class="sl-grid">
+      <div class="sl-card sl-card--cream sl-pillar">
+        <div class="sl-tile-icon"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="m15.5 8.5-2 5-5 2 2-5z"/></svg></div>
+        <h3>Plan</h3>
+        <p>Budgets, forecasts and resource plans that line up with your strategic priorities.</p>
+        <ul><li>Budgeting &amp; forecasting</li><li>Strategic planning</li><li>Resource allocation</li></ul>
+      </div>
+      <div class="sl-card sl-card--cream sl-pillar">
+        <div class="sl-tile-icon"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/><path d="M11 8v6"/><path d="M8 11h6"/></svg></div>
+        <h3>Analyze</h3>
+        <p>Find out what’s really driving performance, and where the opportunities and risks are.</p>
+        <ul><li>Variance analysis</li><li>Cost &amp; viability analysis</li><li>Financial modeling</li></ul>
+      </div>
+      <div class="sl-card sl-card--cream sl-pillar">
+        <div class="sl-tile-icon"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20V10"/><path d="M10 20V4"/><path d="M16 20v-7"/><path d="M22 20H2"/></svg></div>
+        <h3>Report</h3>
+        <p>Clear reporting and dashboards that tell the story behind the numbers.</p>
+        <ul><li>Management reporting</li><li>KPI dashboards</li><li>Data analytics &amp; visualization</li></ul>
+      </div>
+    </div>
+  </div>
+</section>
 
-#### Financial planning and analysis (FP&A) services are essential for businesses of all sizes. They provide a structured, agile approach to forecasting and budgeting, evaluating opportunities, optimizing resources, adapting quickly to changing conditions, and -- ultimately -- achieving your business goals.
+<section class="sl-section">
+  <div class="sl-container">
+    <p class="sl-eyebrow">How it works</p>
+    <h2 class="sl-h2" style="margin-bottom: 48px;">Simple to start, built to last</h2>
+    <div class="sl-steps">
+      <div class="sl-step">
+        <p class="sl-step-num">01</p>
+        <h3>Free intro call</h3>
+        <p>Send me a note and we’ll set up a 30-minute conversation about where you are, where you want to be, and what’s in the way.</p>
+      </div>
+      <div class="sl-step">
+        <p class="sl-step-num">02</p>
+        <h3>A focused proposal</h3>
+        <p>A clear scope, timeline and fee, sized to what you need, whether that’s one project or ongoing support.</p>
+      </div>
+      <div class="sl-step">
+        <p class="sl-step-num">03</p>
+        <h3>Deliver and hand off</h3>
+        <p>Working models, reports and plans your team understands, so the improvement lasts after the engagement ends.</p>
+      </div>
+    </div>
+  </div>
+</section>
 
-#### Whether you simply need short-term support or want to completely transform your approach to FP&A, [reach out](mailto:intro@summitlineconsulting.com)! 
+<section class="sl-section sl-section--mist">
+  <div class="sl-container" style="padding-top: 96px; padding-bottom: 96px;">
+   <div style="max-width: 780px;">
+    <p class="sl-eyebrow">Meet the founder</p>
+    <h2 class="sl-h2" style="margin-bottom: 20px;">Hi, I’m Angie Naillon.</h2>
+    <p style="font-size: 1.06rem;">I’ve spent two decades leading FP&amp;A across government, higher education, and corporate organizations. I started Summit Line because many teams need seasoned finance help in focused, high-quality engagements rather than another full-time hire.</p>
+    <p style="font-size: 1.06rem; margin-bottom: 20px;">I help leaders understand their financial drivers, turn risks and opportunities into decisions, and build their team’s financial fluency.</p>
+    <a class="sl-link-arrow" href="who_is_slc.html">More about Angie
+      <svg class="sl-icon" aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m13 6 6 6-6 6"/></svg></a>
+   </div>
+  </div>
+</section>
 
-#### Summit Line can help you enhance your financial agility, gain a deeper understanding of your operations, and develop actionable plans to support your strategic priorities.
+<section class="sl-section sl-section--forest">
+  <div class="sl-container sl-cta" style="padding-top: 88px; padding-bottom: 88px;">
+    <div class="sl-grow">
+      <h2 class="sl-h2">Ready to see your numbers clearly?</h2>
+      <p>Short-term support or a full FP&amp;A transformation. Let’s talk about what you need.</p>
+    </div>
+    <a class="sl-btn sl-btn--light" href="contact.html">Get in touch
+      <svg class="sl-icon" aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m13 6 6 6-6 6"/></svg></a>
+  </div>
+</section>
+```

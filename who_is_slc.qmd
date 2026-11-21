@@ -1,29 +1,97 @@
 ---
-title: "Who is Summit Line?"
-format: html
-toc: false
+title: "About"
+description: "Summit Line was founded by Angie Naillon, an FP&A leader and strategist with two decades of experience across government, higher education and corporate organizations."
 ---
 
-Summit Line was created by Angie Naillon, an FP&A leader and strategist with nearly two decades of experience. She recognized a need in many organizations for seasoned finance professionals to perform intermittent, high-quality engagements.
+```{=html}
+<section class="sl-section sl-section--mist">
+  <div class="sl-container sl-row" style="padding-top: 88px; padding-bottom: 88px;">
+    <div class="sl-grow">
+      <p class="sl-eyebrow">About Summit Line</p>
+      <h1 class="sl-h1">Seasoned finance leadership, when you need it</h1>
+      <p style="font-size: 1.12rem;">Summit Line was founded by Angie Naillon, an FP&amp;A leader and strategist with two decades of experience. She saw that many organizations need seasoned finance help for focused, high-quality engagements rather than a full-time hire.</p>
+      <p style="font-size: 1.12rem; margin: 0;">Success isn’t only about the numbers. It’s about building financial fluency at every level, so teams can make confident decisions that support their priorities.</p>
+    </div>
+    <div class="sl-about-photo">
+      <img src="images/Headshot.jpg" alt="Angie Naillon">
+      <p><strong style="color: #2E3D31;">Angie Naillon</strong> · Founder &amp; Principal Consultant · Fruita, CO</p>
+    </div>
+  </div>
+</section>
 
-Whether you need someone for a short-term project or to spearhead a transformative finance initiative, please reach out. Summit Line is excited to support your financial success! <br> <br>
+<section class="sl-section">
+  <div class="sl-container" style="padding-top: 88px; padding-bottom: 56px;">
+    <h2 class="sl-h2" style="margin-bottom: 32px;">How I work</h2>
+    <div class="sl-pills">
+      <span class="sl-pill">Conscientious listener</span>
+      <span class="sl-pill">Curious investigator</span>
+      <span class="sl-pill">Trusted advisor</span>
+      <span class="sl-pill">Financial puzzle solver</span>
+      <span class="sl-pill">Energetic change agent</span>
+    </div>
+  </div>
+</section>
 
-## *About Angie*
+<section class="sl-section">
+  <div class="sl-container" style="padding-top: 32px; display: flex; flex-wrap: wrap; gap: 64px;">
 
-I am passionate about helping organizations unravel and shape their unique financial narratives. I bring a proven history of financial partnership focused on driving revenue enhancements, cost-savings initiatives, and process optimizations that directly impact a team's ability to achieve its core mission. Together, we can demystify your financial drivers, distill your risks and opportunities into actionable decisions, and enhance your financial agility through thoughtful planning and reporting.
+    <div style="flex: 3 1 520px; min-width: 0;">
+      <h2 class="sl-h2" style="margin-bottom: 32px;">Experience</h2>
+      <ol class="sl-timeline">
+        <li><p class="sl-when">2023 – Present</p><h3>Principal Consultant</h3><p class="sl-where">Summit Line Consulting</p></li>
+        <li><p class="sl-when">2022 – 2023</p><h3>Global Customer Fulfillment FP&amp;A Finance Manager</h3><p class="sl-where">Amazon</p></li>
+        <li><p class="sl-when">2018 – 2021</p><h3>Director of Finance, Planning &amp; Asset Management</h3><p class="sl-where">University of Colorado Boulder</p></li>
+        <li><p class="sl-when">2015 – 2018</p><h3>Budget &amp; Accounting Manager, Senior Business Analyst</h3><p class="sl-where">Washington State Investment Board</p></li>
+        <li><p class="sl-when">2013 – 2015</p><h3>Budget &amp; Operations Manager</h3><p class="sl-where">Washington Department of Fish &amp; Wildlife</p></li>
+      </ol>
+      <a class="sl-link-arrow" href="images/pdf_resume_summary.pdf" style="margin-top: 28px;">
+        <svg class="sl-icon" aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 4v12"/><path d="m7 11 5 5 5-5"/><path d="M5 20h14"/></svg>
+        Download résumé (PDF)</a>
+    </div>
 
-Success in this space isn't merely about numbers, however. It's about fostering a culture of financial fluency and empowerment at all levels of an organization. I am committed to instilling this ethos, equipping teams with the knowledge and tools to make confident, informed financial choices that support strategic priorities and long-term success.
+    <div class="sl-sidebar">
+      <div class="sl-box">
+        <h2>Expertise</h2>
+        <div class="sl-stack">
+          <div><h3>Planning</h3><ul><li>Budgeting &amp; forecasting</li><li>Strategic planning</li><li>Resource allocation</li></ul></div>
+          <div><h3>Analyzing</h3><ul><li>Financial modeling</li><li>Scenario &amp; variance analysis</li><li>Cost analysis</li></ul></div>
+          <div><h3>Reporting</h3><ul><li>Financial storytelling</li><li>Management reporting</li><li>Dashboard development</li></ul></div>
+        </div>
+      </div>
+      <div class="sl-box">
+        <h2>Education</h2>
+        <div class="sl-stack" style="gap: 14px; font-size: 0.95rem;">
+          <div><p style="margin: 0; font-weight: 600; color: #2E3D31;">BS, Business Administration / Accounting</p><p class="sl-muted" style="margin: 0;">Eastern Oregon University</p></div>
+          <div><p style="margin: 0; font-weight: 600; color: #2E3D31;">MS, Clinical Psychology</p><p class="sl-muted" style="margin: 0;">Washington State University</p></div>
+          <div><p style="margin: 0; font-weight: 600; color: #2E3D31;">BA, Psychology</p><p class="sl-muted" style="margin: 0;">Saint Martin’s University</p></div>
+        </div>
+      </div>
+      <div class="sl-box">
+        <h2>Tools</h2>
+        <div class="sl-pills" style="gap: 8px;">
+          <span class="sl-pill sl-pill--small">Excel</span>
+          <span class="sl-pill sl-pill--small">Power BI</span>
+          <span class="sl-pill sl-pill--small">Tableau</span>
+          <span class="sl-pill sl-pill--small">Cognos Planning Analytics</span>
+          <span class="sl-pill sl-pill--small">PeopleSoft</span>
+          <span class="sl-pill sl-pill--small">SAP HRMS</span>
+          <span class="sl-pill sl-pill--small">SAP Concur</span>
+          <span class="sl-pill sl-pill--small">AFRS</span>
+        </div>
+      </div>
+    </div>
 
-I am excited to partner with you to co-create possibilities. Let's connect and explore how I can help your organization meet its unique financial challenges and goals. Together, we can forge a path toward financial empowerment and position your organization for a thriving future!
+  </div>
+</section>
 
-<br>
-
-<div>
-
-![](images/resume_summary.png){.round-corners fig-align="center" width="750"}
-
-</div>
-
-::: {style="text-align: center;"}
-[PDF](images/pdf_resume_summary.pdf)
-:::
+<section class="sl-section sl-section--forest">
+  <div class="sl-container sl-cta" style="padding-top: 88px; padding-bottom: 88px;">
+    <div class="sl-grow">
+      <h2 class="sl-h2">Let’s explore what’s possible</h2>
+      <p>Tell me about your organization’s financial challenges and goals.</p>
+    </div>
+    <a class="sl-btn sl-btn--light" href="contact.html">Get in touch
+      <svg class="sl-icon" aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m13 6 6 6-6 6"/></svg></a>
+  </div>
+</section>
+```
