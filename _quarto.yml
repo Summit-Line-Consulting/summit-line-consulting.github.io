@@ -7,33 +7,33 @@ project:
     - contact.qmd
 
 website:
+  title: "Summit Line Consulting"
+  site-url: https://summitlineconsulting.com
+  description: "FP&A consulting for growing organizations: budgeting, forecasting, financial modeling and reporting. Based in Fruita, Colorado."
   favicon: images/Favicon_logo.svg
+  image: images/Headshot.jpg
+  open-graph: true
+  search: false
   navbar:
     logo: images/Logo_no_text.svg
-    left:
-      - href: index.qmd
-        text: Home
+    logo-alt: "Summit Line Consulting home"
+    title: "Summit Line Consulting"
+    right:
       - href: services.qmd
         text: Services
       - href: who_is_slc.qmd
         text: About
-      - contact.qmd
-    tools: 
-      - icon: envelope-at
-        href: mailto:angie@summitlineconsulting.com
-      - icon: linkedin
-        href: https://www.linkedin.com/in/angie-naillon
-    
+      - href: contact.qmd
+        text: Contact
+
 format:
   html:
     theme: styles.scss
-    # css: styles.css
-    mainfont: Nunito
-    toc: true
-    page-layout: full
-    
-execute: 
+    toc: false
+    page-layout: custom
+    title-block-style: none
+    anchor-sections: false
+    include-after-body: _footer.html
+
+execute:
   freeze: auto
-  
-  
-  

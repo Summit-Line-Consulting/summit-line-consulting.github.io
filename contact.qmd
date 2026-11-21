@@ -1,16 +1,47 @@
 ---
-title: "Get in Touch"
-image: images/Headshot.jpg
-about: 
-  template: jolla
-  image-shape: round
-  links:
-    - icon: envelope-at
-      text: Email
-      href: mailto:angie@summitlineconsulting.com
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/angie-naillon
+title: "Contact"
+description: "Get in touch with Summit Line Consulting. Email intro@summitlineconsulting.com to set up a free 30-minute intro call."
 ---
 
-#### I would love to help your organization reach its full potential, through finance projects large or small. Please reach out!
+```{=html}
+<section class="sl-section sl-section--mist">
+  <div class="sl-container" style="padding-top: 80px;">
+    <p class="sl-eyebrow">Get in touch</p>
+    <h1 class="sl-h1" style="max-width: 760px;">Let’s talk about what you’re working toward</h1>
+    <p class="sl-lead" style="margin-bottom: 48px;">Projects large or small. Send me an email and I’ll respond promptly to set up a free 30-minute intro call.</p>
+
+    <div style="display: flex; flex-wrap: wrap; gap: 32px; align-items: stretch;">
+      <div class="sl-email-card">
+        <div class="sl-email-icon"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="#FDFBF7" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg></div>
+        <div>
+          <h2>Email me</h2>
+          <p class="sl-email-address">intro@<wbr>summitlineconsulting.com</p>
+        </div>
+        <div>
+          <p style="margin: 0 0 10px; font-size: 0.9rem; font-weight: 600; color: #D1D9CE;">Helpful to include</p>
+          <ul>
+            <li>Your organization and your role</li>
+            <li>What you’re working on, or what’s getting in the way</li>
+            <li>Your timeline</li>
+          </ul>
+        </div>
+        <a class="sl-btn sl-btn--light" href="mailto:intro@summitlineconsulting.com" style="align-self: flex-start;">Write an email
+          <svg class="sl-icon" aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m13 6 6 6-6 6"/></svg></a>
+      </div>
+
+      <div class="sl-connect">
+        <h2>Other ways to connect</h2>
+        <a class="sl-connect-item" href="https://www.linkedin.com/in/angie-naillon">
+          <span class="sl-connect-icon"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M8 10v7"/><path d="M8 7v.01"/><path d="M12 17v-4a2 2 0 0 1 4 0v4"/><path d="M12 10v7"/></svg></span>
+          Connect on LinkedIn</a>
+        <p class="sl-connect-item">
+          <span class="sl-connect-icon"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s-7-6.2-7-11.5A7 7 0 0 1 19 9.5C19 14.8 12 21 12 21z"/><circle cx="12" cy="9.5" r="2.5"/></svg></span>
+          Fruita, Colorado · Mountain Time</p>
+        <p class="sl-connect-item">
+          <span class="sl-connect-icon"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M3 12h18"/><path d="M12 3a14 14 0 0 1 0 18"/><path d="M12 3a14 14 0 0 0 0 18"/></svg></span>
+          Working with clients anywhere, remotely or on site</p>
+      </div>
+    </div>
+  </div>
+</section>
+```
